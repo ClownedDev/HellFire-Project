@@ -95,3 +95,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #Core/Anticheat: Temp disable our custom Freeze-Z check as i have to rewrite it's logic.
 #Core/Misc: Addition to the client crash fix, forgot to remove one line.
 #Completely removed transport checks, let's see if it works now.
+#Core/Misc: This should fix fall damage with elevators in Undercity and global.
