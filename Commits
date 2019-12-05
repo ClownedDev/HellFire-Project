@@ -93,3 +93,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #Core/Anticheat: Fixed false-positive with transport
 #Core/Misc: fixed client freezes with stealthed npcs.
 #Core/Anticheat: Temp disable our custom Freeze-Z check as i have to rewrite it's logic.
+#Core/Misc: Addition to the client crash fix, forgot to remove one line.
