@@ -103,3 +103,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #Core/Anticheat: Fixed False positive with waterwalking.
 #Core/Anticheat: Rewrite areMapsOK logic so it excludes maps properly now.
 #Core/Anticheat: Let's not detec the gm's, ok?
+#Core/Misc: Fixed a crash with movement opcodes sent from creatures.
