@@ -80,3 +80,4 @@
 #Core/Anticheat: Z freeze detection is now 100% working, needs testing of the behaviour 'if player is in water'.
 #Core/Anticheat: Attempt to fix the false positive for Naxxramas - It's not an actual map building, it's a wmo/m2 object so it's Z coord is down on the ground
 #Fixed linux compile and some false positives with our anticheat.
+#Core/Anticheat: Fixed false positives with freeze-z.
