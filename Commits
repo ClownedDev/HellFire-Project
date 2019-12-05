@@ -82,3 +82,4 @@
 #Fixed linux compile and some false positives with our anticheat.
 #Core/Anticheat: Fixed false positives with freeze-z.
 #Core/Anticheat: Fixed false positive with some zones/caves without height data (outputting -200,000.00 Z coord.)
+#Core/Anticheat: Fixed another false/positive check releated to incorrect floor coordinates.
