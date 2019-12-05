@@ -74,3 +74,4 @@
 #Added buff realm blizz
 #Fix warning in compilation
 #Fix compilation buffScript
+#Core/Anticheat: Implement more aggressive fly check.
