@@ -98,3 +98,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #Core/Misc: This should fix fall damage with elevators in Undercity and global.
 #Core/Anticheat: Made a bool for the maps so we don't have to edit the entire code and added deeprun tram in it.
 #Core/Misc: Hopefully fixed stealth client crash with npcs.
+#Core/Anticheat: Exclude Fear effects so they won't return false positive with AC.
