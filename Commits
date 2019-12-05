@@ -96,3 +96,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #Core/Misc: Addition to the client crash fix, forgot to remove one line.
 #Completely removed transport checks, let's see if it works now.
 #Core/Misc: This should fix fall damage with elevators in Undercity and global.
+#Core/Anticheat: Made a bool for the maps so we don't have to edit the entire code and added deeprun tram in it.
