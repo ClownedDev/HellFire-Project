@@ -45,3 +45,4 @@
 #Work 3c3 solo, fix command .npc add item
 #rework cfbg
 #Added reload item/creature
+#Update reload item_template, delete trash commands custom
