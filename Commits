@@ -86,3 +86,4 @@
 #Core/Movement: I have to rewrite targeted movement or merge with TC.
 #Core/Anticheat: Fully fixed the false positive with floorZ being over 200k (no vmap data)
 #Core/Movement: Creatures should NOT go trough walls/m2 objects when fleeing.
+Core/Misc: Creatures should have 100% health when they reached home position.
