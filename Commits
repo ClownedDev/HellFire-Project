@@ -102,3 +102,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #Core/Misc: Implemented function for spells to interrupt only non-player units - fixes many spells with silence/stun effect
 #Core/Anticheat: Fixed False positive with waterwalking.
 #Core/Anticheat: Rewrite areMapsOK logic so it excludes maps properly now.
+#Core/Anticheat: Let's not detec the gm's, ok?
