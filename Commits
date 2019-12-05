@@ -84,3 +84,4 @@
 #Core/Anticheat: Fixed false positive with some zones/caves without height data (outputting -200,000.00 Z coord.)
 #Core/Anticheat: Fixed another false/positive check releated to incorrect floor coordinates.
 #Core/Movement: I have to rewrite targeted movement or merge with TC.
+#Core/Anticheat: Fully fixed the false positive with floorZ being over 200k (no vmap data)
