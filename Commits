@@ -105,3 +105,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #Core/Anticheat: Let's not detec the gm's, ok?
 #Core/Misc: Fixed a crash with movement opcodes sent from creatures.
 #Core/Anticheat: Exclude Killing Spree(51690) from anticheat.
+#Core/Auth: Fix correct Bypass, By Clowned
