@@ -110,3 +110,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #Core/WorldChat Added one more rank WorldChat, modifie colors and link
 #Core/WorldChat Fix Warning TEAM_ALLIANCE
 #Core/DB: Fix Flymaster in Important Citys Alliance, Work Fine Now!
+#Core: Added 1vs1, need more worck in same script bud its playable
