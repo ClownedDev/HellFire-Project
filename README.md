@@ -1,5 +1,5 @@
 # ![logo](https://github.com/ClownedDev/HellFire-Project/blob/master/hellfire.png) HellFire-Project
-[![Discord](https://img.shields.io/discord/217589275766685707.svg)](https://discord.gg/scvcFcg)
+[![Discord](https://img.shields.io/discord/518115221735342096)](https://discord.gg/h5JGzyR)
 
 
 ## Introduction
