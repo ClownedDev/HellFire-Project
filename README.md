@@ -4,13 +4,15 @@
 
 ## Introduction
 
-HellFire-Project © 2014-2019, es un proyecto privado basado en TrinityCore y SunwellCore. 
+HellFire-Project © 2014-2020, es un proyecto privado basado en TrinityCore, SunwellCore, AzerothCore. 
 Estamos constantemente actualizando y mejorando nuestro servidor.
 
 ## Links del Proyecto
 
-- [Discord](https://discord.gg/vXgM9y6)
-- [BugTracker](https://discord.gg/ZeQxtYn)
+- [Facebook Oficial](https://www.facebook.com/frostwhispers/)
+- [FrostWhispers](https://www.frostwhispers.com/)
+- [Discord](https://discord.gg/h5JGzyR)
+- [BugTracker](https://discord.gg/sqkhtTG)
 
 ## Fundador
 - [Developer, Administrador: Clowned](https://www.facebook.com/terryseytu)
