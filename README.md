@@ -19,7 +19,7 @@ Estamos constantemente actualizando y mejorando nuestro servidor.
 
 ## License
 
-- Los nuevos componentes fuente de HellfireCore / UniversalCore se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/UniversalCore/blob/master/LICENSE-AGPL3)
+- Los nuevos componentes fuente de UniversalCore se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/UniversalCore/blob/master/LICENSE-AGPL3)
 - Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://github.com/ClownedDev/UniversalCore/blob/master/LICENSE-GPL2)
 
 ## Potenciado y hosteado por
