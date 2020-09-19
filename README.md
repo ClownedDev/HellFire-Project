@@ -4,13 +4,13 @@
 
 ## Introduction
 
-HellFire-Project © 2014-2020, es un proyecto privado basado en TrinityCore, SunwellCore, AzerothCore. 
+UniversalCore © 2020, es un proyecto privado basado en TrinityCore, SunwellCore, AzerothCore. 
 Estamos constantemente actualizando y mejorando nuestro servidor.
 
 ## Links del Proyecto
 
 - [Facebook Oficial](https://www.facebook.com/UniversalGamesOficial/)
-- [FrostWhispers](https://www.universalgames-wow.com/)
+- [UniversalGames](https://www.universalgames-wow.com/)
 - [Discord](https://discord.gg/h5JGzyR)
 - [BugTracker](https://discord.gg/h5JGzyR)
 
