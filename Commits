@@ -114,3 +114,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #Core: Delete trash CrossFacionBG
 #"Core/Crossfactionbg: Reupdate CFBG, Work fine now
 #(Core/BattleGround): Added 1vs1, directly code source
+#(Core/Misc): Added Reset Instance in supportNPC
