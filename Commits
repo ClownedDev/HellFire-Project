@@ -116,4 +116,5 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #(Core/BattleGround): Added 1vs1, directly code source
 #(Core/Misc): Added Reset Instance in supportNPC
 #(Core/Servidor): Agregado de AutoBackups diarios.
-#(Core): Added Spectate command for players, work now!/srv/0004/UniversalCore
+#(Core): Added Spectate command for players, work now!
+#(Core/Custom): Delete Trash system and rework source for more estability. 
