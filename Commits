@@ -119,3 +119,4 @@ Core/Misc: Creatures should have 100% health when they reached home position.
 #(Core): Added Spectate command for players, work now!
 #(Core/Custom): Delete Trash system and rework source for more estability. 
 #(BattleGround/Database): Battleground is fast start now, need 1 player for faction.
+#(Rework): Rework now crossfactionbg, phase beta bud its playable.
